@@ -129,10 +129,3 @@ For example, from the provided sample output:
 
 This analysis provides a systematic approach to understanding the Melbourne housing market. Clustering helps in identifying inherent groupings which can be leveraged for various business use-cases including targeted marketing, prediction modeling, etc.
 
----
-
-For the full code, dependencies, and other relevant details, refer to the accompanying Jupyter notebooks or Python scripts in this repository.
-
----
-
-**Note**: This README is a guideline. Depending on your project, you might want to add sections on 'How to Set Up', 'Dependencies', 'Contributors', 'License' and other relevant information.
